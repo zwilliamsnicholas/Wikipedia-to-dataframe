@@ -1,3 +1,4 @@
+#https://www.youtube.com/watch?v=8dTpNajxaH0&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=57
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
