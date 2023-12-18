@@ -27,3 +27,4 @@ for row in column_data[1:]:
     length = len(df)
     df.loc[length]=individual_row_data
 df
+df.to_csv(r'C:\Users\zaraw\OneDrive\Documents\Python Tutorial\Companies.csv')
